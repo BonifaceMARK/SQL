@@ -103,3 +103,4 @@ git remote set-url origin https://BonifaceMARK:ghp_2jnduoAYxtrdilFKvo2f9v4ypl3mq
 git remote set-url origin https://github.com/BonifaceMARK/SQL.git
 git branch
 git config pull.rebase false
+git pull --allow-unrelated-histories origin main

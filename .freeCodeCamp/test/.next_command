@@ -102,3 +102,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git remote set-url origin https://BonifaceMARK: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@github.com/SQL.git
 git remote set-url origin https://github.com/BonifaceMARK/SQL.git
 git branch
+git config pull.rebase false

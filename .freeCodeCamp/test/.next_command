@@ -64,3 +64,7 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 echo hello sql
 echo hello SQL
 psql --username=freecodecamp --dbname=postgres
+git config --global user.name "BonifaceMARK"
+git config --global user.email "markluisbonifacio@gmail.com"
+git remote set-url origin https:// < BonifaceMARK > : < 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 > @github.com/SQL.git
+git remote set-url origin https://BonifaceMARK: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@github.com/SQL.git
